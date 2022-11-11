@@ -1,0 +1,15 @@
+- Variables: una variable es una bodega donde se pueden almacenar datos, se pueden usar
+distintas bodegas para almacenar diferentes tipos de informacion que despues
+usaremos para que se ejecute nuestro código
+
+- Strings: Son datos almacenados en forma de "texto", se pueden unir con ayuda de un operador
+como el signo de suma por ejemplo.
+
+- Funciones (Argumentos, return): es un grupo de instrucciones que hacen una tarea o devuelven algun
+valor, se configuran a traves de variables.
+
+- Declaraciones (if, else): son condiciones que se pueden establecer y que se deben de cumplir 
+para que se puedan ejecutar ciertas funciones en nuestro código
+
+- Valores Booleanos (true, false): son tipos de datos que solo pueden cumplir con una de estas datos
+condiciones
